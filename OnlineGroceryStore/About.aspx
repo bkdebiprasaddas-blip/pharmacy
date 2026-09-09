@@ -1,0 +1,4 @@
+<%@ Page Title="About FreshBasket" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="false" CodeFile="About.aspx.vb" Inherits="AboutPage" %>
+<asp:Content ID="MainContent" ContentPlaceHolderID="MainContent" runat="server">
+<div class="form-panel"><span class="eyebrow">A FRESH START</span><h1>Everyday shopping, made simple.</h1><p>FreshBasket is an academic Online Grocery Store Management System. It brings product browsing, inventory, checkout, and order tracking into one easy-to-use application.</p><h2>What you can do</h2><p>Explore categories, build your basket, place a Cash on Delivery order, and follow its progress in My Orders.</p><p>This demonstration is built with ASP.NET Web Forms, VB.NET, and Microsoft Access. It is not a live grocery delivery business.</p><a class="btn btn-primary" href="Products.aspx">Explore groceries →</a></div>
+</asp:Content>
