@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.accdb
+*.laccdb
+*.log
+__pycache__/
+
+# Video generation tooling and rendered output
+.video-tools/
+.video-work/
+deliverables/
